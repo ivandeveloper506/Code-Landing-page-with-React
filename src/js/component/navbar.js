@@ -1,3 +1,10 @@
+/********************************************************************************/
+/* Fecha Creación:  25 Febrero 2021.                                            */
+/* Autor:           Iván Fonseca Castro                                         */
+/*                                                                              */
+/* Descripción:     Archivo principal de componente Navbar.                     */
+/********************************************************************************/
+
 import React from "react";
 
 export function Navbar() {

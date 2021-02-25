@@ -1,3 +1,11 @@
+/********************************************************************************/
+/* Fecha Creación:  25 Febrero 2021.                                            */
+/* Autor:           Iván Fonseca Castro                                         */
+/*                                                                              */
+/* Descripción:     Archivo principal que invoca al componente Home para        */
+/*                  renderizar todos los componentes a mostrar en el sitio web. */
+/********************************************************************************/
+
 //import react into the bundle
 import React from "react";
 import ReactDOM from "react-dom";

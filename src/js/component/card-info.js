@@ -1,3 +1,11 @@
+/********************************************************************************/
+/* Fecha Creación:  25 Febrero 2021.                                            */
+/* Autor:           Iván Fonseca Castro                                         */
+/*                                                                              */
+/* Descripción:     Archivo principal de componente CardInfo. Este componente   */
+/*                  dibuja y renderiza el DOM, mostrando las cuatro cartas.     */
+/********************************************************************************/
+
 import React from "react";
 import { Card } from "./card.js";
 
